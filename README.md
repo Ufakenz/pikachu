@@ -5,11 +5,11 @@
 <a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/kenzo-malappuram"><img title="Author" src="https://img.shields.io/badge/Author-kenzo-malappuram/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ufakenz/pikachu"><img title="Author" src="https://img.shields.io/badge/Author-ufakenz/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/kenzo-malappuram">kenzo-malappuram</a> to make it public
+Project created by <a href="https://github.com/ufakenz">ufakenz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/kenzo-malappuram">kenzo-malappura
 ----
 
   <p align="center">
-  <a href="httsp://github.com/kenzo-malappuram/pikachu">
-    <img src="https://img.shields.io/github/repo-size/kenzo-malappuram/pikachu?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/ufakenz/pikachu">
+    <img src="https://img.shields.io/github/repo-size/ufakenz/pikachu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/kenzo-malappuram/followers"><img title="Followers" src="https://img.shields.io/github/followers/kenzo-malappuram?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/kenzo-malappuram/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kenzo-malappuram/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/kenzo-malappuram/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kenzo-malappuram/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/kenzo-malappuram/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kenzo-malappuram/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ufakenz/followers"><img title="Followers" src="https://img.shields.io/github/followers/ufakenz?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ufakenz/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ufakenz /pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ufakenz/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ufakenz/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ufakenz/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ufakenz/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -40,9 +40,9 @@ Project created by <a href="https://github.com/kenzo-malappuram">kenzo-malappura
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=nightowl" alt="kenzo-malappuram" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ufakenz&show_icons=true&theme=nightowl" alt="ufakenz" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=nightowl" alt="kenzo-malappuram" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ufakenz&theme=nightowl" alt="ufakenz" /></p>
 </details> </div>
 
 
@@ -60,7 +60,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kenzo-malappuram/pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ufakenz/pikachu.git)
      </div>
 <br>
 <br >
@@ -85,7 +85,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/kenzo-malappuram/pikachu
+$ git clone https://github.com/ufakenz/pikachu
 $ cd pikachu
 $ chmod +x *
 $ npm i
